@@ -45,6 +45,7 @@ namespace Tyuiu.KomarovMA.Sprint4.Task7.V16
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate(n, m, str));
             Console.ReadKey();
+
         }
     }
 }
